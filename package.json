@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "vue-touch": "git://github.com/vuejs/vue-touch.git#next"
+    "vue-touch": "git+https://github.com/vuejs/vue-touch.git#next"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiecg/vue-fancybox.git"
+    "url": "git+https://github.com/ktanster/vue-fancybox.git"
   },
   "keywords": [
     "vue",
